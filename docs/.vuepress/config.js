@@ -4,7 +4,7 @@ module.exports = {
     themeConfig: {
         sidebar: [
             '/',
-            '/index',
+            '/index/',
         ]
     }
 }
