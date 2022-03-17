@@ -1,7 +1,7 @@
 const path = require('path')
 module.exports = {
   base: '/vue-gulu/',
-  title: '组件UI',
+  title: '组件UI-test',
   description: '一个好用的UI框架',
   themeConfig: {
     nav: [
